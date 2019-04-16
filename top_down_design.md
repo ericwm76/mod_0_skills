@@ -1,0 +1,65 @@
+How to get food at a restaurant:
+-Go to restaurant
+	-Decide on restaurant
+		-Read reviews on internet
+		-Discuss mood for cuisine
+		-Narrow down to 3 options
+		-Discuss price
+		-Grab keys and leave house
+	-Get in car
+		-Open car door
+		-Insert key in ignition
+		-Turn key
+		-Press brake pedal with right foot
+		-Move shifter to D (drive)
+	-Drive to restaurant
+		-Buckle seat belt
+		-Navigate on phone to restaurant
+		-Press accelerator to move forward
+		-Press brake pedal to slow down
+		-Follow navigation directions on phone
+	-Park car
+		-Find empty parking spot
+		-Pull car into parking spot
+		-Turn key toward you to turn off car
+		-Exit car
+		-Pay parking meter
+	-Enter restaurant
+		-Open doors
+		-Give name and party size to host
+		-Wait until name is called
+		-Follow host to table
+		-Sit at table
+-Order food
+	-Order drinks and appetizers
+		-Look at drinks/appetizers menu
+		-Decide on drinks/appetizers
+		-Wait for server to come to table
+		-Tell server what you'd like
+		-Wait for server to bring food to you
+		-Eat it
+	-Order main course
+		-Look at entree menu
+		-Decide on entree
+		-Wait for server to come to table
+		-Tell server what you'd like
+		-Wait for server to bring food to you
+		-Eat it
+	-Order dessert
+		-Look at dessert menu
+		-Decide on dessert
+		-Wait for server to come to table
+		-Tell server what you'd like
+		-Wait for server to bring food to you
+		-Eat it
+	-Pay
+		-Wait for server to bring bill to table
+		-Look at bill and check for errors
+		-Place card in bill holder
+		-Wait for server to take bill holder and bring it back
+		-Leave a 20% tip
+		-Sign the receipt
+
+
+
+
