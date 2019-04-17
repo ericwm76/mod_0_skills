@@ -7,3 +7,5 @@ Attributes:
 
 Methods:
 Order: message sent to kitchen to prepare one order of shrimp tacos. 
+On_sale: Shrimp tacos are now 20% off for Taco Tuesday.
+Resupply: Tortillas, shrimp, spices, cilantro added to list of ingredients needing purchase. 
